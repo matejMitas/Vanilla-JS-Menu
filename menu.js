@@ -1,5 +1,6 @@
 /**
 * Vanilla JS Menu - A JavaScript Responsive Menu Framework
+* v0.0.1
 *
 * http://matejmitas.com
 *
